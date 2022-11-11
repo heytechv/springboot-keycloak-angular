@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/angular-app/angular-app.iml" filepath="$PROJECT_DIR$/angular-app/angular-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-app/spring-app.iml" filepath="$PROJECT_DIR$/spring-app/spring-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-keycloak-angular.iml" filepath="$PROJECT_DIR$/springboot-keycloak-angular.iml" />
+    </modules>
+  </component>
+</project>
