@@ -9,7 +9,7 @@ export const environment = {
     // Url of the Identity Provider
     issuer: 'http://localhost:8081',
     // Realm
-    realm: 'hospital-app',
+    realm: 'test-app',
     clientId: 'frontend'
   },
 };
