@@ -55,7 +55,7 @@ services:
       - "8081:8081"
     command: [ "start-dev", "--http-port=8081" ]
     depends_on:
-      - postgres
+      - postgresql
 ```
 Start docker with `docker compose up`.
 
